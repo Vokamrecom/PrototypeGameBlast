@@ -6,6 +6,9 @@ build/
 settings/
 *.meta
 
+# GitHub Pages - НЕ игнорируем папку docs
+!docs/
+
 # Node
 node_modules/
 package-lock.json
