@@ -1,0 +1,22 @@
+{
+  "name": "prototype-game-blast",
+  "version": "1.0.0",
+  "description": "Прототип игры в жанре головоломка с механикой Blast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cocos-creator",
+    "game",
+    "puzzle",
+    "blast"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "creator": {
+    "version": "3.8.8"
+  },
+  "uuid": "f176c364-e06a-4ed2-b886-04682d23ec82"
+}

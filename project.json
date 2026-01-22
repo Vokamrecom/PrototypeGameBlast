@@ -1,0 +1,9 @@
+{
+  "engine": "2.4.11",
+  "id": "PrototypeGameBlast",
+  "isNew": false,
+  "readonly": false,
+  "start-scene": "db://assets/scenes/MainScene.fire",
+  "title": "PrototypeGameBlast",
+  "version": "2.4.15"
+}
